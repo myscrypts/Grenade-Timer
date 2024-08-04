@@ -1,4 +1,4 @@
-# Settings Time Grenades
+# Time Grenades
 
 **Version:** 3.7  
 **Author:** hckr
