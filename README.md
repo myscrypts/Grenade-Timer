@@ -57,7 +57,6 @@ The grenade time settings menu allows the user to:
 
 ## Notes
 
-- Ensure you have the necessary language files and configurations in place for the plugin to function correctly.
 - Adjust access levels and default grenade times as needed in the plugin code or configuration files.
 
 ## License
