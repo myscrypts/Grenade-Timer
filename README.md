@@ -49,23 +49,6 @@ The grenade time settings menu allows the user to:
 3. Set the explosion time for Smoke Grenades.
 4. Reset all grenade times to default values.
 
-## Functions
-
-- **`plugin_init()`:** Initializes the plugin, registers commands and events, and sets up hooks for grenade functionality.
-- **`client_putinserver(id)`:** Resets grenade times for newly connected players.
-- **`CmdGrenadeTime(id)`:** Displays the grenade time settings menu if the player has access.
-- **`ShowGrenadeTimeMenu(id)`:** Displays the in-game menu for grenade time settings.
-- **`HandleGrenadeTimeMenu(id, menu, item)`:** Handles user selections from the grenade time settings menu.
-- **`SetHETime(id)`, `SetFlashTime(id)`, `SetSmokeTime(id)`:** Sets the explosion time for respective grenade types.
-- **`has_access(id)`:** Checks if the player has the required access to set grenade times.
-- **`roundBegin()`:** Manages grenade time updates at the beginning of a round.
-- **`Fw_NadeModel(const nade, const NadeModel[])`:** Adjusts grenade explosion times based on player settings.
-- **`Fw_NadeThink(const nade)`:** Updates smoke grenade behavior.
-- **`Fw_GrenadeThink(ent)`:** Displays countdown on the HUD for grenades.
-- **`grenade_type(const index, const checkClassName = 0)`:** Determines the type of grenade.
-- **`reset_grenade_times(id)`:** Resets grenade times to default values.
-- **`check_player_privileges()`:** Resets grenade times for players without the required access rights.
-
 ## Installation
 
 1. Place the plugin file in the `plugins` directory of your AMXX server.
