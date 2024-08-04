@@ -1,8 +1,11 @@
 # Settings Time Grenades
 
 **Version:** 3.7  
-**Author:** hckr  
-**Description:** Allows admins and VIPs to set custom explosion times for grenades via in-game menu and shows HUD countdown.
+**Author:** hckr
+
+## Description:
+
+Allows admins and VIPs to set custom explosion times for grenades via in-game menu and shows HUD countdown.
 
 ## Overview
 
