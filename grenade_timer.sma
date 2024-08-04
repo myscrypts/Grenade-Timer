@@ -3,10 +3,10 @@
 #include <hamsandwich>
 
 public stock const
-    PluginName[] = "Settings Time Grenades",
+    PluginName[] = "Grenades Time",
     PluginVersion[] = "3.7",
     PluginAuthor[] = "hckr",
-    PluginURL[] = "https://www.hckr.net/settings-time-grenades",
+    PluginURL[] = "https://github.com/myscrypts/Grenade-Timer",
     PluginDescription[] = "Allows admins and VIPs to set custom explosion times for grenades via in-game menu and shows HUD countdown";
 
 const m_fBombStatus = 96;
