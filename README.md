@@ -45,10 +45,10 @@ The grenade time settings menu allows the user to:
 3. Set the explosion time for Smoke Grenades.
 4. Reset all grenade times to default values.
 
-## 🔧 Installation
+## 📥 Installation
 1. Place the plugin file in the `plugins` directory of your AMXX server.
-2. Add the plugin to the `plugins.ini` file to register it.
-3. Restart the server or reload the plugins.
+2. Add the corresponding line to the `plugins.ini` file to register the plugin.
+3. Restart the server or change the map.
 
 ## 📝 Notes
 - Adjust access levels and default grenade times as needed in the plugin code or configuration files.
