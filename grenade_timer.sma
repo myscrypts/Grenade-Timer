@@ -4,7 +4,7 @@
 
 public stock const
     PluginName[] = "Grenades Time",
-    PluginVersion[] = "3.7",
+    PluginVersion[] = "3.8",
     PluginAuthor[] = "hckr",
     PluginURL[] = "https://github.com/myscrypts/Grenade-Timer",
     PluginDescription[] = "Allows admins and VIPs to set custom explosion times for grenades via in-game menu and shows HUD countdown";
