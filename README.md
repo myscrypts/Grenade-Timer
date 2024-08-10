@@ -53,5 +53,6 @@ The grenade time settings menu allows the user to:
 ## 📝 Notes
 - Adjust access levels and default grenade times as needed in the plugin code or configuration files.
 
-## 📜 License
-This project is licensed under the terms of the GNU General Public License, version 3. You can find a copy of the license at [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html).
+## 📄 License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
