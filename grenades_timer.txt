@@ -1,0 +1,27 @@
+[en]
+NO_ACCESS = You don't have access to this command.
+INVALID_TIME = Invalid time. Enter a value between 0.1 and %.1f seconds.
+HE_TIME_SET = HE grenade time set to %.1f seconds
+FLASH_TIME_SET = Flashbang time set to %.1f seconds
+SMOKE_TIME_SET = Smoke grenade time set to %.1f seconds
+TIMES_RESET = Grenade times have been reset to default values.
+GRENADE_MENU_TITLE = Configure Grenade Times^nCurrent times: HE: (%.1f), Flash: (%.1f), Smoke: (%.1f)
+MENU_SET_HE_TIME = Set HE grenade time
+MENU_SET_FLASH_TIME = Set Flashbang time
+MENU_SET_SMOKE_TIME = Set Smoke grenade time
+MENU_RESET_TIMES = Reset times to default
+HUD_GRENADE_TIME = %s: %.1f
+
+[es]
+NO_ACCESS = No tienes acceso a este comando.
+INVALID_TIME = Tiempo no válido. Introduzca un valor entre 0.1 y %.1f segundos.
+HE_TIME_SET = Tiempo de granada [HE] establecido en %.1f segundos
+FLASH_TIME_SET = Tiempo de granada [FB] establecido en %.1f segundos
+SMOKE_TIME_SET = Tiempo de granada [SG] establecido en %.1f segundos
+TIMES_RESET = Los tiempos de las granadas han sido restablecidos a los valores por defecto.
+GRENADE_MENU_TITLE = Configurar tiempo de Granadas^nTiempos actuales: HE: (%.1f), Flash: (%.1f), Smoke: (%.1f)
+MENU_SET_HE_TIME = Establecer tiempo de granada [HE]
+MENU_SET_FLASH_TIME = Establecer tiempo de granada [FB]
+MENU_SET_SMOKE_TIME = Establecer tiempo de granada [SG]
+MENU_RESET_TIMES = Restablecer
+HUD_GRENADE_TIME = %s: %.1f
