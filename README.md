@@ -1,12 +1,12 @@
-# Time Grenades 🕒💣
+# Grenades Timer 🕒💣
 
-**Version:** 3.7  
-**Author:** hckr
-
----
+![Counter-Strike 1.6](https://img.shields.io/badge/Counter--Strike-1.6-yellow)
+![AMX Mod X](https://img.shields.io/badge/AMX%20Mod%20X-1.8+-blue)
+![Versión](https://img.shields.io/badge/Versión-3.7-green)
+![Autor](https://img.shields.io/badge/Autor-hckr-red)
 
 ## 📝 Description:
-Allows admins and VIPs to set custom explosion times for grenades via in-game menu and shows HUD countdown.
+Allows Admins and VIPs to set custom explosion times for grenades via in-game menu and shows HUD countdown.
 
 ## 🔍 Overview
 *Settings Time Grenades* plugin enables server admins and VIPs to configure the explosion times for grenades (HE, Flashbang, and Smoke Grenades) through an in-game menu. The plugin also displays a countdown timer on the HUD for the grenades. It includes functionality to reset grenade times to default and manage permissions for setting times.
